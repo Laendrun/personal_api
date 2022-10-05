@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../c"
+		},
+		{
+			"path": "../../../../../../java_app"
+		},
+		{
+			"path": "../../../../../../java_test"
+		},
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../../laendrun.ch"
+		},
+		{
+			"path": "../../../../../../projet_max"
+		},
+		{
+			"path": "../../../../../../data.laendrun.ch"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dev"
+	}
+}
